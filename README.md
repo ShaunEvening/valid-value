@@ -1,6 +1,10 @@
 # valid-value
 Extendable validation utility library for typescript and javascript
 
+[![npm version](https://badge.fury.io/js/valid-value.svg)](https://badge.fury.io/js/valid-value)
+
+[![CircleCI](https://circleci.com/gh/ShaunLloyd/valid-value/tree/master.svg?style=shield)](https://circleci.com/gh/ShaunLloyd/valid-value/tree/master)
+
 ## Getting Started
 
 ```bash
